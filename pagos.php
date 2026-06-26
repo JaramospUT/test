@@ -1,2 +1,2 @@
 <?php
-echo "Lògica de negocio";
+echo "Lògica de negocio.";
